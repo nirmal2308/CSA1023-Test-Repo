@@ -18,3 +18,6 @@ This project was cloned and edited locally using Git and VS Code.
 
 ## Experiment 27
 Changes committed and pushed to GitHub using Git.
+
+## Collaborator Update
+This change was made remotely and pulled using Git.
