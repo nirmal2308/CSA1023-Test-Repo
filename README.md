@@ -12,3 +12,9 @@ for the Software Engineering course.
 
 ## Author
 Nirmal
+
+## Local Development
+This project was cloned and edited locally using Git and VS Code.
+
+## Experiment 27
+Changes committed and pushed to GitHub using Git.
