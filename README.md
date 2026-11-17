@@ -1,4 +1,14 @@
-# CSA1023-Test-Repo
-Software Engineering repo for doing git workflows
+# CSA1023 - Software Engineering
 
-Conflicting Edit
+## Project Description
+This repository contains practical exercises and assignments
+for the Software Engineering course.
+
+## Tools Used
+- Git and GitHub
+- Docker
+- Python
+- Flask
+
+## Author
+Nirmal
